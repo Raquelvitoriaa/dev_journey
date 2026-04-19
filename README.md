@@ -50,8 +50,13 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 ## 🚀 Tecnologias
 
 ![C](https://img.shields.io/badge/C-Sea%20Warrior-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-Fire%20Power-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-Lightning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS](https://img.shields.io/badge/CSS-Style-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
