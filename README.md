@@ -44,3 +44,14 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+---
+
+## 🚀 Tecnologias
+
+![C](https://img.shields.io/badge/Dev%20Journey-Grand%20Line-blue?styles=for-the-badge&logo=github)
+![Java](https://img.shields.io/badge/Consistência-Diária-brightgrenn?style=for-the-badge)
+![JavaScript](...)
+![HTML](https://img.shields.io/badge/Code%20Mode-Haki%20Ativado-black?style=for-the-badge)
+![CSS](...)
+
