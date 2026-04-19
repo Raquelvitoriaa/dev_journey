@@ -5,7 +5,7 @@
 
 <h1 align="center">🏴‍☠️Diário de Bordo - Jornada Dev</h1>
 
-<<"I'm going to be the king of the pirates!"👑🏴‍☠️>>
+<i>"I'm going to be the king of the pirates!"👑🏴‍☠️</i>
 
 ---
 
