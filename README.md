@@ -27,6 +27,15 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 + Java
 + JavaScript
 
+## 🔭 Etrutura que estou Explorando
+
+```diff
+
++ HTML
++ CSS
+
+---
+
 ## 🗺 Mapa da jornada
 
 <p align="center">
