@@ -27,6 +27,8 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 + Java
 + JavaScript
 
+```
+
 ## 🔭 Etrutura que estou Explorando
 
 ```diff
@@ -34,6 +36,7 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 + HTML
 + CSS
 
+```
 ---
 
 ## 🗺 Mapa da jornada
