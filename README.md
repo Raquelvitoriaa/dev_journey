@@ -26,3 +26,9 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 + C
 + Java
 + JavaScript
+
+## 🗺 Mapa da jornada
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+</p>
