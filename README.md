@@ -58,13 +58,6 @@ Assim como na tripulação do chapéu de palha, aqui estou enfrentando desafios,
 ![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-Style-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Status
 
 ---
-
-![Status](https://img.shields.io/badge/Status-Em%20Treinamento-ff69b4?style=for-the-badge)
-
-![Focus](https://img.shields.io/badge/Foco-Evolução%20Constante-9cf?style=for-the-badge)
-
-![Goal](https://img.shields.io/badge/Objetivo-Rei%20dos%20Devs-yellow?style=for-the-badge)
-
-![Journey](https://img.shields.io/badge/Jornada-One%20Piece%20Mode-red?style=for-the-badge)
